@@ -1,5 +1,5 @@
 {
-	"name": "sim",
+	"name": "agentsjl-devcontainer",
 	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
 
 	"features": {
