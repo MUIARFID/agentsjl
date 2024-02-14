@@ -1,12 +1,3 @@
 {
-    "iis.configDir": "",
-    "peacock.color": "8d569e",
-    "workbench.colorCustomizations": {
-        "commandCenter.border": "#e7e7e799",
-        "sash.hoverBorder": "#a474b3",
-        "titleBar.activeBackground": "#8d569e",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#8d569e99",
-        "titleBar.inactiveForeground": "#e7e7e799"
-    }
+    "iis.configDir": ""
 }

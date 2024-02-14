@@ -13,7 +13,8 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
-				"peacock.color": "8d569e"
+				"peacock.remoteColor": "#8d569e",
+				"peacock.color": "#8d569e"
 			},
 			"extensions": [
 				"johnpapa.vscode-peacock",
